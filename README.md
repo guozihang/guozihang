@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on IMMC.
+- 🌱 I’m currently learning Sequence Modeling.
+- 💬 Ask me about ...
+- 📫 How to reach me: zihang.guo@mail.imu.edu.cn
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guozihang&count_private=true)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gzhlaker)](https://github.com/anuraghazra/github-readme-stats)
