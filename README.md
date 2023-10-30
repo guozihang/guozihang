@@ -3,6 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guozihang&count_private=true)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gzhlaker)](https://github.com/anuraghazra/github-readme-stats)
+
++ ![sumy7](https://komarev.com/ghpvc/?username=guozihang)
++ ![sumy7](https://visitor-badge.glitch.me/badge?page_id=guozihang.profile)
 <!--
 **guozihang/guozihang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
